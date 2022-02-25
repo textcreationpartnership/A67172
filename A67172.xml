@@ -1,0 +1,293 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A perfect narrative of the particular service performed by Thomas Wright firemaster with a morter-peice [sic] of fifteen inches and a half diameter, against the Castle of Elizabeth in the Isle of Jersey, being commanded thither by order of the Councell of State, under the command of Coll: James Haine, humbly represented to the honorable Councell of State.</title>
+            <author>Wright, Thomas, gunner.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67172</idno>
+            <idno type="STC">Wing W3711A</idno>
+            <idno type="STC">ESTC R221261</idno>
+            <idno type="EEBO-CITATION">99832595</idno>
+            <idno type="PROQUEST">99832595</idno>
+            <idno type="VID">37069</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67172)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37069)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2105:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A perfect narrative of the particular service performed by Thomas Wright firemaster with a morter-peice [sic] of fifteen inches and a half diameter, against the Castle of Elizabeth in the Isle of Jersey, being commanded thither by order of the Councell of State, under the command of Coll: James Haine, humbly represented to the honorable Councell of State.</title>
+                  <author>Wright, Thomas, gunner.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1652]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint place from Wing; imprint date suggested by text (Wing gives 1651).</note>
+                  <note>Copy stained with print show-through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jersey (Channel Islands) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Invasions --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:37069:1" rendition="simple:additions"/>
+            <head>A perfect Narrative of the parti<g ref="char:EOLhyphen"/>cular ſervice performed by <hi>Thomas Wright</hi> Firemaſter, with a Morter-peice of fifteen Inches and a half diameter, againſt the Caſtle of <hi>Elizabeth</hi> in the Iſle of <hi>Jerſey,</hi> being commanded thither by Order of the Councell of State, under the Command of Coll: <hi>Jamer Haine,</hi> humbly repreſented to the Honorable Councell of State.</head>
+            <floatingText type="letter">
+               <body>
+                  <opener>
+                     <salute>Right Honorable:</salute>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">I</seg> Humbly conceive it is not unknown unto you in ſome meaſure, what ſervice I have performed, (I ſpeak it to the glory of God, whoſe good hand of Providence was over me) in the Iſle of <hi>Jerſey,</hi> being called thereunto by Your Honors Authority, as appears by this enſuing Order ſigned by Mr. <hi>Rowe.</hi>
+                  </p>
+                  <p>Mr. <hi>Thomas Wright</hi> Gunner in the Tower is hereby deſired to beſpeak theſe particulars under-written, and ready Money ſhall be paid for them upon delivery.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Whitehall,</hi> 
+                        <date>
+                           <hi>July</hi> 15. 1651.</date>
+                     </dateline>
+                     <signed>William Rowe.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter">
+               <body>
+                  <p>100<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>Fuzes</hi> for the <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>: 600 Hand <hi>Fuzes:</hi> Foure wooden Mallets: Foure Iron Rammers: 600 Tomkins: Two large Cheſts: Two large Qua<g ref="char:EOLhyphen"/>drants: Two plain Tables: Two Chains: Two pair of Callipers.</p>
+                  <closer>
+                     <signed>W. R.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Hereupon I had a Commiſſion from Collonel <hi>Heane</hi> Commander in cheif for that Expedition, as followeth.</p>
+            <floatingText type="letter">
+               <body>
+                  <p>BY vertue of the Power and Authority to me derived from the Parlia<g ref="char:EOLhyphen"/>ment of <hi>England,</hi> and my Lord Generall <hi>Cromwell,</hi> I do hereby au<g ref="char:EOLhyphen"/>thoriſe you <hi>Thomas Wright</hi> as Fire-maſter, to Command one of the Great Morter peeces, and all ſuch perſons as are appointed for your aſſiſtance, with all thoſe proviſions and materials thereunto belonging; the which are appointed for the ſervice of the Iſle of <hi>Jerſey.</hi> Which aſſiſtance, pro<g ref="char:EOLhyphen"/>viſions and materials you are to Command, and order for the Reducing of the ſaid place, according to your beſt Judgement and diſcretion; And all perſons whatſoever appointed as your aſſiſtance for the ſervice afore<g ref="char:EOLhyphen"/>ſaid, are hereby required to obey you as their Commander: and you are
+<pb facs="tcp:37069:2" rendition="simple:additions"/>
+                     <pb n="1" facs="tcp:37069:2" rendition="simple:additions"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="2" facs="tcp:37069:3"/>to obſerve ſuch Orders and directions for the carrying on of the ſaid ſer<g ref="char:EOLhyphen"/>vice, as you ſhall from time to time receive from me.</p>
+                  <closer>
+                     <dateline>Given under my hand <date>this 24th day of <hi>September:</hi> 1651.</date>
+                     </dateline>
+                     <signed>To Mr. <hi>Thomas Wright</hi> Fire-maſter. <hi>Ja: Heane.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>May it pleaſe Your Honors, after this ſervice was ended; upon my re<g ref="char:EOLhyphen"/>turn into <hi>England</hi> I could not but look upon ſome various reports which have been made concerning that great and weighty Imployment of redu<g ref="char:EOLhyphen"/>cing the Iſle of <hi>Jerſey,</hi> and <hi>Elizabeth Caſtle,</hi> unto the obedience of the Par<g ref="char:EOLhyphen"/>liament, in which ſervice, by Your Honors Command, (not to derogate from the honour and worth of any Officer) I was under God in my place inſtrumentall; and therefore I humbly conceive in further diſcharge of my duty, I am bound to repreſent a perfect Narrative of ſuch particulars wherein my ſelf was an Actor, together with ſome other things which ei<g ref="char:EOLhyphen"/>ther concern my ſelf, or that Iſland.</p>
+            <p>After we got footing in the Iſland, and Sir <hi>George Caretret</hi> and thoſe of his party were forced to retreat into <hi>Elizabeth Caſtle</hi> (a place which unto them ſeemed impregnable) it was our chiefeſt care to reduce the ſaid Caſtle, without which we could not ſettle the Iſle in a condition of peace and ſecurity, or leſſen the charge of the State, in maintaining of men and other neceſſaries for that ſervice. And when I came to view the diſtance betwixt the place where I was to raiſe my battery, and the Caſtle; I found it to be ſeven eights of a mile, or 924 paces Geometricall, five foot to a pace, which was ſo great a length, that I humbly conceive there hath not been any inſtance in former actions, of execution done ſo far by a Morter peece.</p>
+            <p>Nevertheleſſe upon Monday the fifteenth of November laſt, I planted my Morter-peece upon the Battery, and levell'd my ſhoot at Sir <hi>George Caretrets</hi> Lodgings which were on the fartheſt part of the Caſtle: and I proffered to lay a wager of ten pounds with Captain <hi>Dover,</hi> that my firſt ſhot ſhould ſtrike the Caſtle, or fly over, and not fall ſhort: And when I was commanded to play my Granado, I gave fire my ſelf, and through Gods providence it did ſtrike one fide of the great Tower, where the Granado brake, to the exceeding terror and amazement of the Enemie, and gave all on our ſide good grounds of encouragement, and aſſurance that the work would ſhortly be effected.</p>
+            <p>Whereupon I proceeded to make a ſecond ſhot with the ſame propor<g ref="char:EOLhyphen"/>tion of powder and degree of elevation, which proved alſo a very fair ſhot upon the ſame Line as the other fell; and the Granado brake verie kindly, though it fell ſhorter then the firſt, for the diſtance was very great, and the Carriage of my Gun but weak, and not able to perform that violence of execution which was neceſſarily required. Yet I proceeded to make a third ſhot upon the ſame Line, and having altred my degrees of elevation, and my proportion of powder to a much larger length then the laſt, I did my ſelf give fire to the Granado and Gun as before, and had wonderfull great ſucceſſe and operation in the execution; For this ſhot ſtruke quite through the Roof of the Church, and fell into a Warehouſe
+<pb n="3" facs="tcp:37069:3"/>underneath the Church, where the Enemy had their Magazine of pow<g ref="char:EOLhyphen"/>der and other things, which by the Granados breaking there, it was all ſet on fire, their Church thrown down, and many dwelling houſes, Ware<g ref="char:EOLhyphen"/>houſes and buildings there, of about 200 foot ſquare were totally ruinated by this blowe; and as I was after informed by many Gent<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that came out of the Caſtle, there was in the ſaid houſes and Sellers, about 30 Tun of Sy<g ref="char:EOLhyphen"/>der, 12 Tuns of Sack, great ſtore of Corn and Biſket, with a vaſt num<g ref="char:EOLhyphen"/>ber of Fiſh and other proviſions of victuall, and for the War. Alſo a large Ceſtern which was made for the receiving of rain-water, very ſerviceable for the Caſtle, and joyned to the ſaid buildings, was utterly made unuſe<g ref="char:EOLhyphen"/>full, and ſixteen or eighteen men were killed out-right, and ſix or ſeven more, ſo mortally wounded that moſt of them are ſince dead; and I my ſelf did ſee at the ſame time three men lye dead under the Church wall where no man could come unto them; Likewiſe Sir <hi>Phillip Caretret</hi> did ſince tell me, that moſt of his own wearing Apparel, and his other goods of conſequence were deſtroyed by the ſame blowe.</p>
+            <p>After this I made a fourth ſhot by the ſame degrees of elevation, and with the like proportion of Powder, which fell ſomething ſhort of the o<g ref="char:EOLhyphen"/>ther, for the Carriage of my Peece not being able to do more, did break: with many of the Irons belonging thereto; So that without Gods infinite goodneſs and providence in my preſervation, I had loſt my life by this ſhot, and I was in much danger both at this time, and every other ſhot which I made.</p>
+            <p>On <hi>Thurſday</hi> following, which was the eighteenth day of <hi>November,</hi> my Carriage was repaired and amended, and held five or ſix ſhoots, and to<g ref="char:EOLhyphen"/>wards the evening my firſt ſhot did its execution, the Granado falling in<g ref="char:EOLhyphen"/>to a Reek of Corn, ſet the ſame on fire, burnt and deſtroyed all their Corn and Proviſions in the Mowes, that was for Horſe and man, my ſelf and o<g ref="char:EOLhyphen"/>thers beholding the fire to burn three quarters of an hour, before they could quench it, or throw it into the Sea.</p>
+            <p>Upon the nineteenth and twentieth of <hi>November,</hi> I made five ſhot on the fartheſt part of the Caſtle, and two about the middle of the Caſtle, and two ſhot upon the Out-lynes, every one of them breaking, and doing their execution in one kind or other. At the laſt of theſe ſhot my Carri<g ref="char:EOLhyphen"/>age brake all her Iron work in peeces about me, and my life was again preſerved, with great difficulty.</p>
+            <p>About eighteen days after my Carriage was mended again, and I made five ſhot more, three whereof, I carryed quite over toward the fartheſt part of their Caſtle, which fell amongſt their Veſſels, and did them ſome harme, beating them out of the places of ſecurity, where they lay; And to that place I ſhot (neer an Engliſh mile) the two other Granadoes; the one whereof fell into the Chancellours houſe, and the other not far from the ſame place, and now my Carriage brake the third time, in a more deſ<g ref="char:EOLhyphen"/>perate manner then it did before.</p>
+            <p>Thus far I have humbly thought good to ſet down a particular account of the ſtate of my Morter-peece, the diſtance of place, the number of Granadoes that were ſpent, and the execution made thereby; wherein it
+<pb n="4" facs="tcp:37069:4"/>appeareth that the whole number of Shels which were ſpent in this ſer<g ref="char:EOLhyphen"/>vice, were but ſixteen, nine whereof fell into the Caſtle, and did their Office, as is before recited, and the other ſeven fell in and neer the Ene<g ref="char:EOLhyphen"/>mies out works, beyond their utmoſt lines, among their ſhipping; and ſome neer their other ſhipping, lying on the hither part of their works, which did all break, and do their Office, though they were very long ſhoots, and my carriage ſo weak and unſerviceable as aforeſaid; for had my carriage been as ſtrong as my Gun, I am able to affirm with much con<g ref="char:EOLhyphen"/>fidence, I could have thrown thoſe Shells and many more, into any part of the Caſtle, and not one have fallen fourty yards in diſtance from the other.</p>
+            <p>After my carriage was broke the third time, (to the end that no time might be loſt for the effectuall carrying on of the work) whilſt the ſame was mending, I undertook to make able and ſufficient Fireworks, to fire the Enemie: ſhipping which lay under their Caſtle Guns, which I brought to maturity and perfection, and my Mate <hi>Rich: Facey</hi> (who approved him<g ref="char:EOLhyphen"/>ſelf a deſerving man) undertook that ſervice, and went down to a ſhip that lay within Piſtoll ſhot of the Caſtles Fort, (taking only one of my men along with him) and notwithſtanding the enemy did play upon them from the Fort very thick, both with great and ſmall ſhot; Mr: <hi>Facey</hi> entered the ſhip and ſet it on fire, by which means both the ſhip and the goods in her were conſumed. In acompliſhment whereof, he underwent very great danger, himſelf and my man that went with him being much burnt, and ſcorched, hardly eſcaping with their lives; and before my carriage was mended this third time, the Caſtle was ſurrendred; Then I made a far-well ſhot with my Gun upon the Sands (ſhooting neer an Engliſh mile) and ſo left it ſafe and ſound.</p>
+            <p>Theſe Right Honourable are the Particulars of my ſervice in this Im<g ref="char:EOLhyphen"/>ployment, of which both Col. <hi>Hayne</hi> the Governor, and divers eminent Gentlemen of the Country have alſo given their Certificates of the mat<g ref="char:EOLhyphen"/>ter in Generall.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="certificate">
+                        <head>Collonel <hi>James Haynes</hi> Certificate of the ſervice performed by <hi>Thoms Wright</hi> Fire maſter, for the reducing of <hi>Elizabeth</hi> Caſtle.</head>
+                        <p>VVHereas <hi>Thomas Wright</hi> one of the Gunners of the Tower of <hi>London</hi> was appointed Firemaſter, and <hi>Richard Facey</hi> another Gunner of the ſame place, his Mate, by order of the Councell of State, to ſerve under my command, in the expedition againſt the <hi>Iſle of Jerſey.</hi> Theſe are to certifie that the ſaid <hi>Thomas Wright,</hi> and <hi>Richard Facey</hi> have faithful<g ref="char:EOLhyphen"/>ly and carefully ſerved the State in that ſervice, I atteſt that
+<pb n="5" facs="tcp:37069:4"/>they have acted with ſo much Zeal and Judgment, that more could not be expected from any men; And thus much I muſt moreover inform, that they have not neglected or ſlighted a<g ref="char:EOLhyphen"/>ny duty or Command, but have been very inſtrumentall un<g ref="char:EOLhyphen"/>der God, to the rendition of <hi>Elizabeth</hi> Caſtle in this Iſle. I could ſpeak more of their deſerts, but their ſervices when made known, will ſpeak them large enough, I have only paid them their bare pay, from the time I entertained them, untill the 22 of this inſtant <hi>Decemb: viz:</hi> for Mr. <hi>Wright</hi> 4 <abbr>
+                              <hi>s.</hi>
+                           </abbr> 
+                           <hi>per diem,</hi> and Mr. <hi>Facey</hi> 2 <abbr>
+                              <hi>s.</hi>
+                           </abbr> 6 <abbr>
+                              <hi>d.</hi>
+                           </abbr> 
+                           <hi>per diem,</hi> beſides their men and aſſiſtants with ſome ſmall incouragements for their eminent ſervice, and 3 <abbr>
+                              <hi>li.</hi>
+                           </abbr> 1 <abbr>
+                              <hi>s.</hi>
+                           </abbr> which I gave them in their purſes, beſides their pay; I ſhould have been glad if I had been able to have given them a greater gratuity, but I remain their friend and Ser<g ref="char:EOLhyphen"/>vant,</p>
+                        <closer>
+                           <dateline>
+                              <hi>Jerſey</hi> 
+                              <date>22. <hi>Decemb:</hi> 1651.</date>
+                           </dateline>
+                           <signed>Ja: Heane.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="certificate">
+                        <head>The Certificate of divers eminent Gentlemen of the Countrey, in behalf of <hi>Tho: Wright</hi> Firemaſter for the ſervice of <hi>Jerſey.</hi>
+                        </head>
+                        <p>VVE certifie to all whom it may concern, that Mr. <hi>Tho: Wright</hi> (one of the Gunners of the Tower of <hi>London,</hi> was appointed Firemaſter, by order of the Councell of State, to ſerve in the expedition againſt this Iſland and the Caſtle here) hath approved himſelf a very skilfull and gallant man with the Morter-peice, againſt Caſtle <hi>Elizabeth,</hi> by reaching and over-reaching it, beyond the expectation of moſt men, Ruinating the beſt Lodgings therein, and firing a Magazen of the Enemy; As alſo with his other fire-works firing one of their Veſſels, by which means they became glad to imbrace a treaty, whereby the ſaid Caſtle was ſurrendred to the Com<g ref="char:EOLhyphen"/>mon-wealth.</p>
+                        <closer>
+                           <dateline>Witneſſe our hands given hereunto in <hi>Jerſey,</hi> 
+                              <date>this 23. of <hi>Decemb.</hi> 1651.</date>
+                           </dateline>
+                           <signed>
+                              <hi>Lemprie Baily</hi> Judge: <hi>John Filkins. Samuel Chaſe. George Eaton.</hi> Coll: <hi>Stocker:</hi> Lieut: <hi>Grout. Matthew Thoroughgood. Tho: Hooper.</hi> Lieut: <hi>Vyvyan. Will: Willis. John Sumerfield.</hi>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb n="6" facs="tcp:37069:5"/>
+            <p>I ſhall in the next place humbly make known <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nto Your Honors, the certainty of what moneys I have received for pay or otherwiſe, and what my neceſſarie charges and diſ<g ref="char:EOLhyphen"/>burſements have been during this Imployment, as followeth.</p>
+            <p>Firſt, it appeareth by Order from Mr. <hi>Roe,</hi> before recited-that I entred upon the ſervice of the State for this Imploy<g ref="char:EOLhyphen"/>ment the 15 day of <hi>July,</hi> 1651. and I have continued in the ſame untill the 28 of this inſtant <hi>January.</hi>
+            </p>
+            <p>During which time I have received onely 13 weeks pay at 4 <abbr>s.</abbr> 
+               <hi>per diem</hi> of Col: <hi>Hayne,</hi> which in all amounts to 18 <abbr>li.</abbr> 4 <abbr>s.</abbr>
+            </p>
+            <p>I likewiſe received 13 weeks pay for my men of Col: <hi>Hayne,</hi> which at 4 <abbr>s.</abbr> 
+               <hi>per diem</hi> comes to 35 <abbr>li.</abbr> 19 <abbr>s.</abbr>
+            </p>
+            <p>
+               <hi>Item,</hi> allowed unto me by Coll: <hi>Hayne</hi> for my charges to bring me from <hi>Jerſey</hi> to <hi>London,</hi> 3 <abbr>li.</abbr> 10 <abbr>s.</abbr>
+            </p>
+            <p>
+               <hi>Item,</hi> given unto me by Collonel <hi>Hayne</hi> the ſame day the Church was blown up by my Morter peece, 1 <abbr>li.</abbr>
+            </p>
+            <p>
+               <hi>Item,</hi> Coll: <hi>Hayne</hi> gave to Mr. <hi>Facy,</hi> my Mate, as a gratuity for the ſervice in firing the Ship, 4 <abbr>li.</abbr> 10 <abbr>s.</abbr>
+            </p>
+            <p>
+               <hi>Item,</hi> received of Coll: <hi>Hayne</hi> towards my charges in going to <hi>Jerſey,</hi> 2 <abbr>li.</abbr> 3 <abbr>s.</abbr>
+            </p>
+            <p>So that we received in all, 64 <abbr>li.</abbr> 17 <abbr>s.</abbr>
+            </p>
+            <p>Whereof I received for my own part, but 24 <abbr>li.</abbr> 8 <abbr>s.</abbr>
+            </p>
+            <p>Which is all that I have any ways received of Collonel <hi>Hayn.</hi>
+            </p>
+            <p>In the next place I ſhall humbly preſent to your Honors view, what my loſſes and expences have been, from the time I went out upon this ſervice, until my return again to <hi>London,</hi> and refer the reſt to your Honours wiſedoms, relating to what Materials were found in the Caſtle, which in the like caſes have been claimed as a right by other men; As alſo how ſmall my pay was, and what hath been given to other men, though their ſervice hath been nothing at all, or at the beſt very inconfiderate.</p>
+            <p>Firſt, I have been conſtrained to be at the charges in carry<g ref="char:EOLhyphen"/>ing &amp; recarrying my ſelf and my men both by Sea and Land, to and from <hi>Jerſey,</hi> (having beforehand ingaged my word to them in that behalf) which hath coſt me no leſſe then ten pounds <hi>ſterling.</hi>
+            </p>
+            <p>Secondly, By reaſon of the length of the Journey, and vio<g ref="char:EOLhyphen"/>lence
+<pb n="7" facs="tcp:37069:5"/>of the ſervice, I have worn out and ſpoyled in Linen, Woollen, and other wearing Apparel, to the value of above 14 <hi>
+                  <abbr>li.</abbr> ſterling.</hi>
+            </p>
+            <p>From whence it appeareth, that my neceſſary charges, be<g ref="char:EOLhyphen"/>ſides other expences in the Iſland, doth amount unto four and twenty pounds at the leaſt, and that all the wages or pay that I have received of Col. <hi>Hayne</hi> as Firemaſter, amounteth to but 18 <abbr>
+                  <hi>li.</hi>
+               </abbr> 4 <abbr>
+                  <hi>s.</hi>
+               </abbr> and I had of the State but ten pounds when I went for <hi>Jerſey,</hi> which is all that I have any ways received for the ſervice.</p>
+            <p>Thirdly, It hath taken up a conſiderable part of my time, in preparing for the ſaid Journey, before my Commiſſion did begin or Commence, beſides the ſetting on work of ſeve<g ref="char:EOLhyphen"/>rall Artificers, to get in a readineſs proviſions fit for the ex<g ref="char:EOLhyphen"/>pedition, on whom I will averr upon Oath, I expended the whole ſum of ſix pounds.</p>
+            <p>Fourthly, Whereas there were many Inſtruments of War and broken ſtore in Caſtle <hi>Elizabeth,</hi> which by Diſcipline of War upon the ſurrender, did appertain unto me, as appears (amongſt other Emmunities and Priviledges granted to the Train of Artillery by <hi>Charles</hi> the fifth Emperour, <hi>Arricle</hi> the 9th. and hath been obſerved by all Nations) <hi>viz.</hi>
+            </p>
+            <p>
+               <hi>When a City or Fort is taken by Aſſault, then there belongs to the Maſter of the Artillery and Gunners the beſt Peece of Cannon, all Can<g ref="char:EOLhyphen"/>non diſmounted, or broke by battery, the Charges in all the Cannon; all Powder Barrels that are open, the Ammunition in the Magazine, and the Bels. Alſo when a Victory or Field is gotten, and the Generall de<g ref="char:EOLhyphen"/>ſtres the Magazine, it ought for to be priſed, and to give according to equity, that the Maſter of the Artillery be content therewith.</hi>
+            </p>
+            <p>Nevertheleſſe the Governor Col: <hi>Hayne</hi> conceiving that they were fit to remain in his cuſtody, I had not any part thereof, or penny profit for the ſame, either directly or indirectly.</p>
+            <p>Fifthly, Upon occaſion of ſome conference which I had with divers able Gentlemen of the Country (whom I found very Cordiall and reall for the Parliament.) they conceiving that my preſent allowance was not a ſufficient competency, to maintain a man of my imployment, made a proffer (for my better incouragement in the ſervice of the Morter-peece)
+<pb n="8" facs="tcp:37069:6"/>to make a Collection or gathering throughout the Iſland, which they would undertake ſhould amount to one hundred pounds to be given unto me, nevertheleſſe although I could not but acknowledg it as a great favour from them, yet for the Honour of thoſe whom I ſerved, and being unwilling to be a charge to the Country, I refuſed to accept thereof.</p>
+            <p>And after the Caſtle was ſurrendred, and I was diſmiſſed by Col. <hi>Hayne,</hi> ſome of the Gentlemen of the Iſland did de<g ref="char:EOLhyphen"/>clare much Civillity and Curteſie to me, and told me that if I would ſtay 3. or 6. moneths there, they would provide me a Horſe, and I ſhould have Meat, Drink, and Lodging <hi>gratis,</hi> yet being unwilling (as before) to be chargable unto thoſe whom I conceived had been ſufferers under Sir <hi>Geo: Carteret,</hi> I rather made choiſe to expedite my return, (though by rea<g ref="char:EOLhyphen"/>ſon of the time of the year, it was a time of Danger and Pe<g ref="char:EOLhyphen"/>rill) then to protract time in ſtaying there.</p>
+            <p>This diſcourſe having occaſionally led me to make menti<g ref="char:EOLhyphen"/>on of ſome perſons of that Country, me thinks it lyes upon me as a part of my Duty, to give a Glimps of what I obſer<g ref="char:EOLhyphen"/>ved in that Iſland in generall.</p>
+            <p>When we came before <hi>Jerſey,</hi> my Mate <hi>Facey</hi> did land with Major <hi>Purling,</hi> and divers others at the firſt, who affirm unto me, that they diſ<g ref="char:EOLhyphen"/>covered not any great conſiderable party that came down to fight or op<g ref="char:EOLhyphen"/>poſe us in our Landing, and that there was not two hundred Horſe and Foot diſcovered in Arms in a Body; And it is humbly conceived by my ſelf, and others who have Judgment, that if but 2000 of the Iſlanders had ſtood to fight in <hi>Caretrets</hi> Cauſe, we had been ſo far from gaining the Iſland, that we had all been deſtroyed before we had gotten to Land. And notwithſtanding, both my ſelf and others heard of great numbers that were in Arms before the Parliaments Forces appeared againſt the Iſland, yet is it alſo affirmed by Perſons of good Repute, that when the Parlia<g ref="char:EOLhyphen"/>ments Forces came, many ran to their own homes, and that all the men that were able to bear Arms in one whole Pariſh (which was Populous) were threatned to be hanged by Sir <hi>George Caretret,</hi> for not appearing at his Summons, ſome few days before our Landing there, and the generallity of people during my abode there, expreſſed much love and affection to the Parliament of <hi>England.</hi>
+            </p>
+            <p>As for the Country it is full of Rich Corn-land, Meadows, and Or<g ref="char:EOLhyphen"/>chards, and in the Summer (eſpecially) is a place of very ſweet and plea<g ref="char:EOLhyphen"/>ſant Habitation; The Men and Women are generally courteous, and of a good deportment, the Poorer ſort only excepted.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:37069:6"/>
+         </div>
+      </body>
+   </text>
+</TEI>
